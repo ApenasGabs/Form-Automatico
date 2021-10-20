@@ -1,0 +1,24 @@
+{
+    "name": "form-automatico",
+    "version": "1.0.0",
+    "description": "script criado para preencher formularios de forma automatica",
+    "main": "index.js",
+    "dependencies": {
+        "puppeteer": "^10.4.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Apenasgabs/Form-Automatico.git"
+    },
+    "author": "Gabriel Rodrigues",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Apenasgabs/Form-Automatico/issues"
+    },
+    "homepage": "https://github.com/Apenasgabs/Form-Automatico#readme"
+}
