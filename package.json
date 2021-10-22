@@ -4,6 +4,7 @@
     "description": "script criado para preencher formularios de forma automatica",
     "main": "index.js",
     "dependencies": {
+        "dotenv": "^10.0.0",
         "puppeteer": "^10.4.0"
     },
     "devDependencies": {},
