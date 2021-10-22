@@ -43,6 +43,7 @@ Projeto criado para facilitar o preenchimento de um formulario diariamente 😅
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
+- [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Node.js](https://nodejs.org/en/)
 - [Puppeteer](https://pptr.dev/)
 
