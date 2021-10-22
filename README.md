@@ -1,10 +1,4 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Form Automatico" />
 
-  &#xa0;
-
-  <!-- <a href="https://formautomatico.netlify.com">Demo</a> -->
-</div>
 
 <h1 align="center">Form Automatico</h1>
 
@@ -35,7 +29,7 @@ Projeto criado para facilitar o preenchimento de um formulario diariamente 😅
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Clica nos inputs e envia automaticamente;\
+:heavy_check_mark: Clica nos inputs e envia automaticamente.
 
 
 ## :rocket: Tecnologias ##
