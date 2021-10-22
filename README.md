@@ -1,10 +1,4 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Form Automatico" />
 
-  &#xa0;
-
-  <!-- <a href="https://formautomatico.netlify.com">Demo</a> -->
-</div>
 
 <h1 align="center">Form Automatico</h1>
 
