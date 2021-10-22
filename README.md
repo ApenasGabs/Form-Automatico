@@ -29,7 +29,7 @@ Projeto criado para facilitar o preenchimento de um formulario diariamente 😅
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Clica nos inputs e envia automaticamente;\
+:heavy_check_mark: Clica nos inputs e envia automaticamente.
 
 
 ## :rocket: Tecnologias ##
