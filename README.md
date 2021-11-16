@@ -62,7 +62,7 @@ $ npm i
 # Para iniciar o projeto
 $ npm start
 
-# O app vai abrir o chromium e ai é só centar e assistir mesmo 🤣
+# O app vai abrir o chromium e ai é só sentar e assistir mesmo 🤣
 ```
 
 ## :memo: Licença ##
